@@ -1,0 +1,40 @@
+Project planning is one of the major steps to deciding on a team and executing the project in an efficient way. We will use 'Aims grid' for our project planning. 
+
+Aims grid: It is a project management tool and it has four components. Purpose, Team Selection, End Result, and Success Criteria. 
+
+1. Purpose: To unlock sales insights that are not visible before to the sales team for decision support and automate them to reduce manual time spent in data gathering.
+
+2. Team Selection: Sales Director, Marketing Team, Customer Service Team, Data and Analytics Team, and IT. 
+
+3. End Result: An automated dashboard providing quick and latest sales insights in order to support data-driven decision-making. 
+
+4. Success Criteria:
+   
+   a) Dashboard uncovering sales order insights with the latest data 
+	available.
+
+   b) Sales team able to make better decisions and prove 10% cost savings of total spend. 
+
+   c) Sales Analysis stop data gathering manually in order to save 20%
+	of their business time and reinvest it in value-added activity. 
+
+
+  
+
+Sales Management System --------> Data WareHouse(Terra Data)(Data Engineer) 
+(MySql)                   ETL             |
+							|
+							|
+			     Data Analyst <------
+
+
+ETL = Extract Transform Load 
+
+
+
+
+
+
+
+
+
